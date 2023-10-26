@@ -45,10 +45,3 @@ The model was trained on the provided dataset and evaluated using appropriate me
 ## Acknowledgments
 
 This project is for educational and learning purposes. We acknowledge the data source from Kaggle and appreciate the open-source contributions of the data science community.
-
-## Contact
-
-For questions or collaboration, you can reach out to me on GitHub or connect on LinkedIn.
-
-[LinkedIn](https://www.linkedin.com/in/yutong-xie-b5a8a6233/)
-[GitHub](https://github.com/yutongxie58)
